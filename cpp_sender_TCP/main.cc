@@ -52,7 +52,7 @@ int main() {
 	int sender = send(sockfd, message, strlen(message), 0);
 	if(sender < 0)
 	{
-		std::cout << "Send message failed!\n";
+		std::cout << "Send message failed: " << std::strerror(errno) << '\n';
 		return -1;
 	}
 	else
