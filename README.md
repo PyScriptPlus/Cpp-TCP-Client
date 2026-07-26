@@ -1,4 +1,4 @@
-# Cpp-C-TCP-Example
+# Cpp-TCP-Client
 
 A simple cross-language networking example demonstrating UDP communication between **C++** and **C**.
 
