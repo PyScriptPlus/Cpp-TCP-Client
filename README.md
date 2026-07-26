@@ -1,6 +1,7 @@
 # Cpp-TCP-Client
 
-A simple cross-language networking example demonstrating UDP communication between **C++** and **C**.
+A simple cross-language networking example demonstrating TCP communication between **C++** and **C**.
+Repository: [TCP-Server](https://github.com/PyScriptPlus/C-TCP-Server)
 
 ---
 
