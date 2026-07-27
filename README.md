@@ -111,7 +111,7 @@ This project demonstrates:
 ## Related Projects
 
 * [**Socket-Programming**](https://github.com/PyScriptPlus/Socket-Programming)
-* [**TCP Server**](https://github.com/PyScriptPlus/C-TCP-Server)
+* [**TCP Server (C)**](https://github.com/PyScriptPlus/C-TCP-Server)
 * [**UDP Example (C++ & C#)**](https://github.com/PyScriptPlus/Cpp-CSharp-UDP-Example)
 
 ---
